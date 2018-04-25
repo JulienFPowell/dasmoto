@@ -1,18 +1,23 @@
-.price{font-family: helvetica; font-weight: bold; color: blue}
+body{font-family: helvetica;}
 
-.brush{background-color: mediumspringgreen;
-   font-family: helvetica; font-size: 32px;
-   font-weight: bold; color: white;}
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(../../images/pattern.jpeg);
+}
 
-.frame{background-color: lightcoral;
-    font-family: helvetica; font-size: 32px;
-    font-weight: bold; color: white;}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
 
-.paint{background-color: skyblue;
-     font-family: helvetica; font-size: 32px;
-     font-weight: bold; color: white;}
+.price{font-weight: bold; color: blue}
 
-h1{font-family: helvetica; font-size: 100px;
-      font-weight: bold; color: khaki;
-    text-align: center;
-  background-image: url(../../images/pattern.jpeg);}
+.brush{background-color: mediumspringgreen;}
+
+.frame{background-color: lightcoral;}
+
+.paint{background-color: skyblue;}
